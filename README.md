@@ -8,7 +8,7 @@ I’m مش انا.
 
 
 <a href="https://www.github.com/mm2shams" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/yourusername?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" />
+  <img src="https://img.shields.io/github/followers/mm2shams?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" />
 </a>
 
 ###  Skills
@@ -39,14 +39,6 @@ I’m مش انا.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
